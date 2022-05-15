@@ -1,7 +1,7 @@
 # git-star
 
 
-这里收集了日常在浏览github的过程中发现的一些有趣的或者有用的项目，按照分类整理在此，持续更新中，欢迎Star收藏。
+这里收集了日常在浏览github的过程中发现的一些有趣的或者有用的项目，按照分类整理在此，持续更新中，欢迎Star⭐⭐⭐⭐。
 
 ## Geek
 
@@ -100,28 +100,20 @@
 ## 教育资源
 
 部分大学的课程资料共享，包括课程课件、复习资料、作业等。
-
-[中国科学技术大学课程资源](https://github.com/USTC-Resource/USTC-Course)
-
-[清华大学计算机系课程攻略](https://github.com/PKUanonym/REKCARC-TSC-UHT)
-
-[浙江大学课程攻略](https://github.com/QSCTech/zju-icicles)
-
-[上海交通大学课程资料分享](https://github.com/kxxwz/SJTU-Courses)
-
-[哈尔滨工业大学（深圳）计算机专业课程攻略](https://github.com/LAGRANGIST/HITSZ-CS-GEEK)
-
-[厦门大学课程资源](https://github.com/XMU-Helper/home)
-
-[复旦大学课程资源](https://github.com/openFudan/fudan-coursera)
-
-[中山大学数据科学与计算机学院计算机科学专业课程资源](https://github.com/ysyisyourbrother/SYSU_Notebook)
+| 名称及链接                                                   |
+| ------------------------------------------------------------ |
+| [中国科学技术大学课程资源](https://github.com/USTC-Resource/USTC-Course) |
+| [清华大学计算机系课程攻略](https://github.com/PKUanonym/REKCARC-TSC-UHT) |
+| [浙江大学课程攻略](https://github.com/QSCTech/zju-icicles)   |
+| [上海交通大学课程资料分享](https://github.com/kxxwz/SJTU-Courses) |
+| [哈尔滨工业大学（深圳）计算机专业课程攻略](https://github.com/LAGRANGIST/HITSZ-CS-GEEK) |
+| [厦门大学课程资源](https://github.com/XMU-Helper/home)       |
+| [复旦大学课程资源](https://github.com/openFudan/fudan-coursera) |
+| [中山大学数据科学与计算机学院计算机科学专业课程资源](https://github.com/ysyisyourbrother/SYSU_Notebook) |
 
 
 
-
-
-## 其他未收录
+## 暂未分类
 
 [Qovery/Replibyte: Seed your development database with real data ⚡️ (github.com)](https://github.com/Qovery/Replibyte)
 
